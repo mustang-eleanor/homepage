@@ -1,0 +1,74 @@
+.col-lg-5, .col-lg-7 {
+    padding: 0;
+}
+
+.col-lg-7 {
+    height: 100%;
+    border-right: 40px solid #6dc7c4;
+}
+
+.container {
+    background-color: #6dc7c4;
+}
+
+.about {
+    min-height: 100vh;
+    position: relative;
+    padding-left: 50px;
+}
+
+.main-foto {
+    display: block;
+    max-height: 360px;
+    padding: 100px 0 20px;
+    padding-right: 50px;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 30%;
+}
+
+.name {
+    text-align: left;
+    font-size: 50px;
+    font-weight: 900;
+    letter-spacing: 4px;
+}
+
+.contacts {
+    margin-top: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.number, .email {
+    margin-bottom: 0;
+    font-size: 16px;
+}
+
+.top-line {
+    height: 40px;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 40px;
+}
+
+.bottom-line {
+    height: 40px;
+    width: 100%;
+    background-color: #fff;
+    margin-top: 40px;
+}
+
+.info {
+    padding: 20px;
+    height: 100%;
+    background-color: #fff;
+}
+
+.size-text {
+    font-size: 16px;
+}
+
+.sport-competition li {
+    padding-bottom: 10px;
+}

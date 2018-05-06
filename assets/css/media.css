@@ -1,0 +1,56 @@
+@media only screen and (max-width: 1200px){
+    
+    .about {
+        padding-left: 0;
+        text-align: center;
+    }
+    
+    .main-foto {
+        padding: 0;
+        margin-top: 100px;
+    }
+    
+    .name {
+        text-align: center;
+    }
+    
+    .contacts {
+        margin-top: 50px;
+    }
+    
+    .email {
+        padding-bottom: 16px;
+    }
+    
+    .top-line, .bottom-line {
+        display: none;
+    }
+    
+    .col-lg-7 {
+        border: 20px solid #6dc7c4;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    
+    .main-foto {
+        margin-top: 50px;
+    }
+    
+    .text-size {
+        font-size: 14px;
+    }
+  
+}
+
+@media only screen and (max-width: 620px){
+    
+    .main-foto {
+        max-height: 240px;
+    }
+    
+    .name {
+        font-size: 40px;
+    }
+        
+}
